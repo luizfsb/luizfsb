@@ -3,7 +3,7 @@
 <p>Sou apaixonado pela área de tecnologia! Essa paixão me inspira a aprender todos os dias e a superar todos os desafios que surgirem.</p> 
 
 
-📑  Atualmente estou estudando PHP e Laravel.
+📑  Atualmente estou estudando Java, Spring Boot e PostgreSQL
 
 
 ## 💻Tecnologias:
